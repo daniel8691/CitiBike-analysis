@@ -1,0 +1,24 @@
+Map:
+The map of the city shows the locations of the CitiBike locations within the city as well as their popularities. The 
+center of the city seems to be where most trips take place. 
+
+Seasonality: 
+Line plots were used to describe the seasonality of the bike usage rates in New York City. Two years of data, from 
+2017 and 2018 respectively, were used to see the relationship between time of year and miles traveled. The graphs 
+showed that bikes have higher mileages during warmer months (late Spring, Summer, early Fall) and the mileage falls
+during colder months (late Fall, Winter, early Spring). This can be explained by snow accumulations on the road that 
+raises the difficulty of riding a bike or that most travelers don't prefer to participate in outdoor activities in the cold
+especially for the winter weather the city offers. There tend to be a small spike in mileage traveled mid December for
+both years which can be explained by the holiday seasons that drive the demand for intracity travel. 
+
+Top stations in New York City by usage rate
+The most popular bike station in NYC is Pershing Sqaure which is located right in the heart of the city
+beside the grand central transit station. This popularity could be supported by the large number of travelers 
+arriving at the grand central station for business or leisure purposes. The city is not a great location for
+vehicles due to traffic reasons so it could be right to assume that travelers prefer to arrive at the city by
+train or buses and continue to reach their destinations through bike shares. 
+
+Usage rates:
+The bar charts show that younger demographics from 23 to 40 have higher biking activities than other age groups with the exception 
+to people at 51 years of age which could be a calculation error in the dataset. The data is shown to be mildly inaccurate
+because some bikers are over 110 years of age which seems unreasonable
